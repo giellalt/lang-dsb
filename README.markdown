@@ -3,13 +3,13 @@ The Lower Sorbian morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-dsb)](https://github.com/giellalt/lang-dsb/issues)
 [![Build Status](https://github.com/giellalt/lang-dsb/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-dsb/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-dsb)](https://raw.githubusercontent.com/giellalt/lang-dsb/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-dsb)](https://raw.githubusercontent.com/giellalt/lang-dsb/main/LICENSE)
 
 This repository contains finite state source files for the Lower Sorbian language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under GPLv3
 licence, also detailed in the
-[LICENCE](https://github.com/giellalt/lang-dsb/blob/develop/LICENCE). The
+[LICENSE](https://github.com/giellalt/lang-dsb/blob/main/LICENSE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
 
@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-dsb.git/trunk lang-dsb
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-dsb/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-dsb/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
