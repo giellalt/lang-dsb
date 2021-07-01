@@ -199,7 +199,7 @@
 * Sets for verbs
 
 
-    - V is all readings with a V tag in them, REAL-V should
+- V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
@@ -604,83 +604,8 @@ These were the set types.
 
 
 
-Verb inflection
-The Lower Sorbian language verbs inflect in persons.
-
-
-
-Proper noun inflection
-The Lower Sorbian language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-Adjective inflection
-The Lower Sorbian language adjectives compare.
-
-
-
-Noun inflection
-The Lower Sorbian language nouns inflect in cases.
-
-
-
-
-# Symbol affixes
-
-
-
-
-
-=================================== !
-The Lower Sorbian morphophonological/twolc rules file !
-=================================== !
-
-
-
-
-
-
-
-
-* *primus%>s*
-* *primus00*
-
-
-* examples:*
-
-* examples:*
-
-
-* examples:*
-
-* examples:*
-Verbs
-Verbs in the Lower Sorbian language are actions.
-
-
-Pronouns
-Pronouns in the Lower Sorbian language are references to things.
-
-
-Numerals
-Numerals in the Lower Sorbian language are numbers.
-
-
-Adjectives
-Adjectives in the Lower Sorbian language describe things.
-
-
-Prefixes
-Prefixes in the Lower Sorbian language are bound to beginning of other words.
-
-
-
-Nouns
-Nouns in the Lower Sorbian language are things.
-
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-dsb/blob/main/../src/cg3/functions.cg3)</small>
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Lower Sorbian LANGUAGE.
 
 
@@ -759,7 +684,96 @@ given the proper use of these flags.
 The word forms in Lower Sorbian language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/root.lexc)</small>Proper noun inflection
+The Lower Sorbian language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
 
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/affixes/propernouns.lexc)</small>Noun inflection
+The Lower Sorbian language nouns inflect in cases.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/affixes/symbols.lexc)</small>Adjective inflection
+The Lower Sorbian language adjectives compare.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/affixes/adjectives.lexc)</small>Verb inflection
+The Lower Sorbian language verbs inflect in persons.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/affixes/verbs.lexc)</small>Pronouns
+Pronouns in the Lower Sorbian language are references to things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/stems/pronouns.lexc)</small>Prefixes
+Prefixes in the Lower Sorbian language are bound to beginning of other words.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/stems/prefixes.lexc)</small>Nouns
+Nouns in the Lower Sorbian language are things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/stems/nouns.lexc)</small>Adjectives
+Adjectives in the Lower Sorbian language describe things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/stems/adjectives.lexc)</small>Verbs
+Verbs in the Lower Sorbian language are actions.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
+Numerals in the Lower Sorbian language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/stems/numerals.lexc)</small>=================================== !
+The Lower Sorbian morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-dsb/blob/main/../src/fst/phonology.twolc)</small>
 
 
 
@@ -813,7 +827,8 @@ word classes, or optionally from prefixes:
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
 
-
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 
 We describe here how abbreviations are in Lower Sorbian are read out, e.g.
@@ -829,3 +844,5 @@ For example:
  * esim.:esimerkiksi # ; 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-dsb/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
