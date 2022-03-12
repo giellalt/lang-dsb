@@ -2,7 +2,7 @@ The Lower Sorbian morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-dsb)](https://github.com/giellalt/lang-dsb/issues)
-[![Build Status](https://github.com/giellalt/lang-dsb/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-dsb/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-dsb/main/badge.svg)](https://github.com/giellalt/lang-dsb/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-dsb)](https://github.com/giellalt/lang-dsb/blob/main/LICENSE)
 
 This repository contains finite state source files for the Lower Sorbian language,
