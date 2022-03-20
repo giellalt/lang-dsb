@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-dsb)](https://github.com/giellalt/lang-dsb/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-dsb)](https://github.com/giellalt/lang-dsb/issues)
-[![Build status](https://github.com/giellalt/lang-dsb/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-dsb/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-dsb/main/badge.svg)](https://github.com/giellalt/lang-dsb/actions)
 
 This page documents the work on the **Lower Sorbian language model**. 
 
