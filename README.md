@@ -1,6 +1,7 @@
 The Lower Sorbian morphology and tools
 ==========================================
 
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-dsb%2Fgh-pages%2Flemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-dsb)](https://github.com/giellalt/lang-dsb/issues)
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-dsb/main/badge.svg)](https://github.com/giellalt/lang-dsb/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-dsb)](https://github.com/giellalt/lang-dsb/blob/main/LICENSE)
