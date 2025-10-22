@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-dsb)](https://github.com/giellalt/lang-dsb/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-dsb)](https://github.com/giellalt/lang-dsb/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-dsb?label=CI)](https://builds.giellalt.org/pipelines/lang-dsb/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Lower Sorbian language model**. 
 
